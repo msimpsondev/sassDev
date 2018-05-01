@@ -1,12 +1,12 @@
 {
-  "name": "sass_starter_pack",
+  "name": "sassDev",
   "version": "1.0.0",
-  "description": "Starter pack using gulp",
+  "description": "Dev server using Gulp",
   "main": "index.js",
   "scripts": {
     "start": "gulp"
   },
-  "author": "Brad Traversy",
+  "author": "Michael P. Simpson",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.18.13",
